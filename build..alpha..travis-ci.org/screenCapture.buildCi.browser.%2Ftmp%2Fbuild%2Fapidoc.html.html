@@ -54,12 +54,41 @@
 
     <li class="apidocModuleLi"><a href="#apidoc.module.sanitize-filename">module sanitize-filename</a><ol>
 
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.sanitize-filename.sanitize-filename">
+            function <span class="apidocSignatureSpan"></span>sanitize-filename
+            <span class="apidocSignatureSpan">(input, options)</span>
+            </a>
+
+        </li>
+
     </ol></li>
 
 </ol></div>
 
 <div class="apidocSectionDiv">
 <h1><a href="#apidoc.module.sanitize-filename" id="apidoc.module.sanitize-filename">module sanitize-filename</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.sanitize-filename.sanitize-filename" id="apidoc.element.sanitize-filename.sanitize-filename">
+        function <span class="apidocSignatureSpan"></span>sanitize-filename
+        <span class="apidocSignatureSpan">(input, options)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">sanitize-filename = function (input, options) {
+  var replacement = (options &amp;&amp; options.replacement) || '';
+  var output = sanitize(input, replacement);
+  if (replacement === '') {
+    return output;
+  }
+  return sanitize(output, '');
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
 
 </div>
 
