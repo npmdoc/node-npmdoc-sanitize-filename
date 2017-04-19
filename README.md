@@ -1,9 +1,14 @@
-# api documentation for  [sanitize-filename (v1.6.1)](https://github.com/parshap/node-sanitize-filename#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-sanitize-filename.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-sanitize-filename) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-sanitize-filename.svg)](https://travis-ci.org/npmdoc/node-npmdoc-sanitize-filename)
+# npmdoc-sanitize-filename
+
+#### api documentation for  [sanitize-filename (v1.6.1)](https://github.com/parshap/node-sanitize-filename#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-sanitize-filename.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-sanitize-filename) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-sanitize-filename.svg)](https://travis-ci.org/npmdoc/node-npmdoc-sanitize-filename)
+
 #### Sanitize a string for use as a filename
 
-[![NPM](https://nodei.co/npm/sanitize-filename.png?downloads=true)](https://www.npmjs.com/package/sanitize-filename)
+[![NPM](https://nodei.co/npm/sanitize-filename.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sanitize-filename)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-sanitize-filename/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-sanitize-filename_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-sanitize-filename/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-sanitize-filename/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-sanitize-filename/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-sanitize-filename/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-sanitize-filename/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-sanitize-filename/build/screenCapture.npmPackageListing.svg)
 
@@ -24,12 +29,10 @@
     },
     "contributors": [
         {
-            "name": "Parsha Pourkhomami",
-            "email": "parshap@gmail.com"
+            "name": "Parsha Pourkhomami"
         },
         {
-            "name": "Joel Mukuthu",
-            "email": "joelmukuthu@gmail.com"
+            "name": "Joel Mukuthu"
         }
     ],
     "dependencies": {
@@ -62,13 +65,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "parshap",
-            "email": "supster+npm@gmail.com"
+            "name": "parshap"
         }
     ],
     "name": "sanitize-filename",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/parshap/node-sanitize-filename.git"
@@ -81,16 +82,6 @@
     "version": "1.6.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module sanitize-filename](#apidoc.module.sanitize-filename)
-
-
-
-# <a name="apidoc.module.sanitize-filename"></a>[module sanitize-filename](#apidoc.module.sanitize-filename)
 
 
 
